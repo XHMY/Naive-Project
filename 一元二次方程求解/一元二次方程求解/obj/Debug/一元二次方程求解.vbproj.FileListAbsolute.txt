@@ -1,0 +1,15 @@
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\bin\Debug\一元二次方程求解.exe.config
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\bin\Debug\一元二次方程求解.exe
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\bin\Debug\一元二次方程求解.pdb
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\bin\Debug\一元二次方程求解.xml
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\一元二次方程求解.vbprojResolveAssemblyReference.cache
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\一元二次方程求解.vbproj.GenerateResource.Cache
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\一元二次方程求解.exe
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\一元二次方程求解.xml
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\一元二次方程求解.pdb
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\bin\Debug\一元二次方程求解.exe.manifest
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\bin\Debug\一元二次方程求解.application
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\一元二次方程求解.exe.manifest
+C:\Users\筱幽\Documents\Visual Studio 2015\Projects\一元二次方程求解\一元二次方程求解\obj\Debug\一元二次方程求解.application
