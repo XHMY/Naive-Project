@@ -1,0 +1,24 @@
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\bin\Debug\整人.exe.config
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\bin\Debug\整人.exe
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\bin\Debug\整人.pdb
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\bin\Debug\整人.xml
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\obj\Debug\整人.vbprojResolveAssemblyReference.cache
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\obj\Debug\整人.Form1.resources
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\obj\Debug\整人.Resources.resources
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\obj\Debug\整人.vbproj.GenerateResource.Cache
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\obj\Debug\整人.exe
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\obj\Debug\整人.xml
+C:\Users\zyf6\AppData\Local\Temporary Projects\整人\obj\Debug\整人.pdb
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\bin\Debug\Windows自毁.exe.config
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\bin\Debug\Windows自毁.exe
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\bin\Debug\Windows自毁.pdb
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\bin\Debug\Windows自毁.xml
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\整人.vbprojResolveAssemblyReference.cache
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\整人.Form1.resources
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\整人.Form2.resources
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\整人.Form3.resources
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\整人.Resources.resources
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\整人.vbproj.GenerateResource.Cache
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\Windows自毁.exe
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\Windows自毁.xml
+D:\onedrive\VS程序\整人\覆盖屏幕爆炸\整人\整人\obj\Debug\Windows自毁.pdb

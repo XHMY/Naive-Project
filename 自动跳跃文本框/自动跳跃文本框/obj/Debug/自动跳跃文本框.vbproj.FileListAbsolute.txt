@@ -1,0 +1,10 @@
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\bin\Debug\自动跳跃文本框.exe.config
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\bin\Debug\自动跳跃文本框.exe
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\bin\Debug\自动跳跃文本框.pdb
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\bin\Debug\自动跳跃文本框.xml
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\obj\Debug\WindowsApplication1.Form1.resources
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\obj\Debug\WindowsApplication1.Resources.resources
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\obj\Debug\自动跳跃文本框.vbproj.GenerateResource.Cache
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\obj\Debug\自动跳跃文本框.exe
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\obj\Debug\自动跳跃文本框.xml
+D:\onedrive\VS程序\进度条的应用\自动跳跃文本框\自动跳跃文本框\obj\Debug\自动跳跃文本框.pdb

@@ -1,0 +1,47 @@
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\obj\Debug\读取文本.vbproj.GenerateResource.Cache
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\bin\Debug\读取word.exe
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\bin\Debug\读取word.pdb
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\bin\Debug\读取word.xml
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\obj\Debug\读取word.exe
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\obj\Debug\读取word.xml
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\obj\Debug\读取word.pdb
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\obj\Debug\读取文本.vbprojResolveAssemblyReference.cache
+C:\Users\ZYF\Documents\Visual Studio 2013\VS程序\读取文本\bin\Debug\读取word.exe.config
+F:\VS程序\读取文本\bin\Debug\读取word.exe.config
+F:\VS程序\读取文本\obj\Debug\读取word.exe
+F:\VS程序\读取文本\obj\Debug\读取word.xml
+F:\VS程序\读取文本\obj\Debug\读取word.pdb
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\bin\Debug\读取word.exe.config
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\obj\Debug\读取word.exe
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\obj\Debug\读取word.xml
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\obj\Debug\读取word.pdb
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\bin\Debug\读取word.exe
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\bin\Debug\读取word.pdb
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\bin\Debug\读取word.xml
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\obj\Debug\读取文本.vbprojResolveAssemblyReference.cache
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\zyf25\Documents\Visual Studio 2015\Projects\读取文本\obj\Debug\读取文本.vbproj.GenerateResource.Cache
+D:\onedrive\Visual Studio项目\读取文本\bin\Debug\读取word.exe.config
+D:\onedrive\Visual Studio项目\读取文本\obj\Debug\读取word.exe
+D:\onedrive\Visual Studio项目\读取文本\obj\Debug\读取word.xml
+D:\onedrive\Visual Studio项目\读取文本\obj\Debug\读取word.pdb
+D:\onedrive\Visual Studio项目\读取文本\bin\Debug\读取word.exe
+D:\onedrive\Visual Studio项目\读取文本\bin\Debug\读取word.pdb
+D:\onedrive\Visual Studio项目\读取文本\bin\Debug\读取word.xml
+D:\onedrive\Visual Studio项目\读取文本\obj\Debug\读取文本.vbprojResolveAssemblyReference.cache
+D:\onedrive\Visual Studio项目\读取文本\obj\Debug\WindowsApplication1.Form1.resources
+D:\onedrive\Visual Studio项目\读取文本\obj\Debug\WindowsApplication1.Resources.resources
+D:\onedrive\Visual Studio项目\读取文本\obj\Debug\读取文本.vbproj.GenerateResource.Cache
+D:\onedrive\VS程序\读取文本\obj\Debug\WindowsApplication1.Form1.resources
+D:\onedrive\VS程序\读取文本\obj\Debug\WindowsApplication1.Resources.resources
+D:\onedrive\VS程序\读取文本\obj\Debug\读取文本.vbproj.GenerateResource.Cache
+D:\onedrive\VS程序\读取文本\bin\Debug\读写Word.exe.config
+D:\onedrive\VS程序\读取文本\bin\Debug\读写Word.exe
+D:\onedrive\VS程序\读取文本\bin\Debug\读写Word.pdb
+D:\onedrive\VS程序\读取文本\bin\Debug\读写Word.xml
+D:\onedrive\VS程序\读取文本\obj\Debug\读写Word.exe
+D:\onedrive\VS程序\读取文本\obj\Debug\读写Word.xml
+D:\onedrive\VS程序\读取文本\obj\Debug\读写Word.pdb

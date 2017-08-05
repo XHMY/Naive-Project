@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="循环数计算.exe" version="1.0.0.1" publicKeyToken="b50f908abc5c3ab5" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="循环数计算" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="循环数计算.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="循环数计算.exe" size="35272">
+      <assemblyIdentity name="循环数计算" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>jDT819BoUR11VFoqLquBF5WopWSleH/VEx/+tNmgfvY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="循环数计算.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LENOVO-PC-ZYF\ZYF" issuerKeyHash="011545d2b614e2e6c3be52484cd17415fa635161" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>EQMpxQUWoOFvxvi5JldpKSqGbI8VOE+H1zMR4f2XEdU=</DigestValue></Reference></SignedInfo><SignatureValue>MEz3WIP73ixK0DOp4IMa8TkwZjuxtPEiCBnwpoomblbbqrj8l+uHP24zxthe8rdxB/doAyXVvwGJ4B+/76moha/18zsIKCdfo3zrnPkL/dK7iBElknwhFMXhr51/h9PSmCg6IWZqQcftQrhuExHEvTBpoEMdg39fDRtg1iFn4qk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qbD490boI4hbUJVESDKEkCRY62cLu/DiT3NjasP6FWwGyyrjbiLnlgAS42z+7SlL1j7Pl9tho2dkJGguG+c9D2rG5bUhGdprN/jfsQHy6uo821NnAjKFCx0OGDy354cR7A3K63OXrEoa0810pfzrtPbKIxBjHr6XzayV3VjMoZU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d51197fde11133d7874f38158f6c862a29695726b9f8c66fe1a01605c5290311" Description="" Url=""><as:assemblyIdentity name="循环数计算.exe" version="1.0.0.1" publicKeyToken="b50f908abc5c3ab5" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LENOVO-PC-ZYF\ZYF</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>kxu7bm3tHEOpFGdbUxoc9Cumi9y/B2pbzD/TQKBldXk=</DigestValue></Reference></SignedInfo><SignatureValue>Opv5PM/81r/dyL8893JwJT8rrKTZHaum2qS+JLsOflJB6fltp4YGrlSGDHnw6jWrM3dMPyw7XDNrUq1jLIPW5/ZQg4aM/zKSUe083+d/Cey4Bjst7YyH3I8kyYiVco4I/FysgOkd18dcqC2BhESqu7JZhabisdsL1Pxxqk98v0g=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qbD490boI4hbUJVESDKEkCRY62cLu/DiT3NjasP6FWwGyyrjbiLnlgAS42z+7SlL1j7Pl9tho2dkJGguG+c9D2rG5bUhGdprN/jfsQHy6uo821NnAjKFCx0OGDy354cR7A3K63OXrEoa0810pfzrtPbKIxBjHr6XzayV3VjMoZU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQVoBrPR6cNI1J79AtOrNIRzANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIATABFAE4ATwBWAE8ALQBQAEMALQBaAFkARgBcAFoAWQBGMB4XDTE1MDQyNDE0NDkxMVoXDTE2MDQyMzIwNDkxMVowLTErMCkGA1UEAx4iAEwARQBOAE8AVgBPAC0AUABDAC0AWgBZAEYAXABaAFkARjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqbD490boI4hbUJVESDKEkCRY62cLu/DiT3NjasP6FWwGyyrjbiLnlgAS42z+7SlL1j7Pl9tho2dkJGguG+c9D2rG5bUhGdprN/jfsQHy6uo821NnAjKFCx0OGDy354cR7A3K63OXrEoa0810pfzrtPbKIxBjHr6XzayV3VjMoZUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAW1GQ7rnXRFf3aXT1d+5iJ2Vg4ZQaWm97YqWsfVGGgCUSA4bn07eco7DT9sZaEcZybcX++s7sQExIhkEgikRX8rUZg8DdKXCjLEDQUd0W2AWL4syum8Z2LxDlU0H/l5ucTdJaal7Qs3qvd/qZ2/Q9zD8523XRhLVjJd8KTstjz7g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
